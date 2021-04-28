@@ -4,7 +4,12 @@
       "id": 1,
       "question": "What Should I Do When My Check Engine Lights Come On?",
       "answer": "When your check engine light comes on, there could be a number of issues. It could be something basic, like a loose gas cap, or it could be something serious. The best way to ensure that you are safe behind the wheel is to bring your vehicle into our shop for a multi-point inspection. We can find the issue and make you aware of it so you can choose whether or not you want to take the next steps to getting your vehicle back to peak conditions."
-    }
+    },
+  {
+  "id": 2,
+   "question" : "What Happens If I Ignore My Low Tire Pressure Warning Light?",
+   "answer" : "If your tire pressure is low then it can cause uneven wear on your tires. That means that one tire may wear faster than another forcing you to have to replace all of your tires sooner. This can be quite costly. Low tire pressure also puts you at risk of popping your tire sooner. When you drive down the highway you may also feel your vehicle pulling to one side of the road because of this. Also low tire pressure forces your vehicle to use more power to generate the same amount of speed, costing you more gas and money!"
+  }
   ],
   "profile": {
     "name": "typicode"
